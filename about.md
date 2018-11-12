@@ -1,18 +1,39 @@
 ---
 layout: page
-title: About
+title: About Chaitanya
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm Chaitanya Baweja, a researcher at Imperial College London. I graduated with MSc
+in Advanced Computing from Imperial College London. I have experience in the
+field of Medical Imaging, Machine Learning, Data Analysis and Computer Vision.
+I occasionally blog about new things I learn and hope to write a lot more in near future.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Technologies I have worked on
+* Deep Learning (Tensorflow)
+* Medical Image Computing
+* Computer Vision
+* Machine Learning
+* Data Analysis
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+More information about me
+* [GitHub profile](https://github.com/ChaitanyaBaweja){:target="_blank"}
+* [My Resume](https://chaitanyabaweja.github.io/){:target="_blank"}
+* Connect with me on [LinkedIn](https://www.linkedin.com/in/chaitanya-baweja/){:target="_blank"}
+* Follow me on Twitter [@BawejaChaitanya](https://twitter.com/BawejaChaitanya){:target="_blank"}
 
+Publications
+* Towards continual learning in medical imaging ([link](https://arxiv.org/abs/1811.02496){:target="_blank"})
+* Influence of Temperature and Humidity on the Output Resistance Ratio of the MQ-135 Sensor  ([link](http://ijarcsse.com/Before_August_2017/docs/papers/Volume_6/4_April2016/V6I4-0130.pdf){:target="_blank"})
 
-[jekyll-organization]: https://github.com/jekyll
+<!---
+Current Interests
+* Building chatbots using Generative models
+* Using Deep Learning for Text Classification
+* Question Answering using Deep Learning
+
+Papers Recently Read
+* Neural Machine Translation by Jointly Learning to Align and Translate (link)
+* Convolutional Neural Networks for Sentence Classification (link)
+* Natural Language Processing (Almost) from Scratch (link)
+--->
